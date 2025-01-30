@@ -1,0 +1,1 @@
+En este prototipo se hizo un robot balanceador o pendulo invertido, se hizo mejoras al codigo del creador, volviendolo mas robusto en el controlador PID para perturbaciones externas, asi tambien se habilito el uso de bluetooth para controlarlo con el celular
